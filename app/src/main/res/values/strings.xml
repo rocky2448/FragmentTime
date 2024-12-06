@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FregmentTime</string>
+    <string name="fragment">Это фрагмент</string>
+    <string name="update">Обновить</string>
+</resources>
